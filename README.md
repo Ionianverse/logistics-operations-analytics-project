@@ -104,10 +104,10 @@ The Excel dashboard provides visual insights into business performance.
 ![Monthly Revenue Trend](images/Monthly_revenue_trend.png)
 
 ### Revenue by Product Category
-![Revenue by Category](images/Revenue by Product Category.png)
+![Revenue by Category](images/Revenue_by_Product_Category.png)
 
 ### Revenue vs Delivery Time
-![Delivery Performance](images/Revenue vs Delivery Time Trend.png)
+![Delivery Performance](images/Revenue_vs_Delivery_Time_Trend.png)
 
 ### Order Status Distribution
 ![Order Status](images/Order_Status_Distribution.png)
