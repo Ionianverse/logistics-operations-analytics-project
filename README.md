@@ -1,9 +1,11 @@
 # Logistics Operations Analytics Project
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Analytics-CC2927?logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-217346?logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2EA44F?logo=check-circle&logoColor=white)
+![Project Type](https://img.shields.io/badge/Project-Operations%20Analytics-6F42C1?logo=github&logoColor=white)
 
 ## Executive Summary
 
