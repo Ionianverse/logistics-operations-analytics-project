@@ -110,7 +110,7 @@ The Excel dashboard provides visual insights into business performance.
 ![Delivery Performance](images/Revenue vs Delivery Time Trend.png)
 
 ### Order Status Distribution
-![Order Status](images/Order Status Distribution.png)
+![Order Status](images/Order_Status_Distribution.png)
 
 ---
 
@@ -166,6 +166,7 @@ Umesh Zampadiya
 Operations Analyst | Aspiring Data Analyst  
 
 GitHub: https://github.com/lonianverse
-https://www.linkedin.com/in/umeshzampadiya/
+
+Linkdin: https://www.linkedin.com/in/umeshzampadiya/
 
 ---
