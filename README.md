@@ -6,7 +6,15 @@ This project demonstrates a complete end-to-end logistics and operations analyti
 
 The project covers the full analytics pipeline including data generation, database design, SQL analysis, and dashboard reporting.
 
-This project is designed to demonstrate practical skills required for Data Analyst and Operations Analyst roles.
+This project demonstrates practical skills required for Data Analyst and Operations Analyst roles.
+
+---
+
+## Dashboard Preview
+
+The Excel dashboard provides visual insights into business performance.
+
+![Order Status](images/Order_Status_Distribution.png)
 
 ---
 
@@ -41,6 +49,49 @@ Python → MySQL Database → SQL Analysis → Excel Dashboard → Business Insi
 
 ---
 
+## Repository Structure
+
+```
+logistics-operations-analytics-project/
+│
+├── logistics_data_generator.py
+├── logistics_analysis_queries.sql
+├── logistics_operations_dataset.csv
+├── Sales_Operations_Analytics_Dashboard.xlsx
+│
+├── images/
+│   ├── Python_script.png
+│   ├── SQL_query.png
+│   ├── Monthly_revenue_trend.png
+│   ├── Revenue vs Delivery Time Trend.png
+│   └── Order_Status_Distribution.png
+│
+└── README.md
+```
+
+---
+
+## How to Run This Project
+
+Follow these steps to reproduce the project:
+
+Step 1: Run the Python script  
+Run `logistics_data_generator.py` to generate and insert logistics data into MySQL database.
+
+Step 2: Set up the database  
+Open MySQL Workbench and run `logistics_analysis_queries.sql` to create tables and perform analysis.
+
+Step 3: Execute SQL queries  
+Run the queries in `logistics_analysis_queries.sql` to generate business insights such as revenue, product performance, and delivery metrics.
+
+Step 4: Open Excel dashboard  
+Open `Sales_Operations_Analytics_Dashboard.xlsx` and refresh the data to view the dashboard and visual insights.
+
+Final Result:  
+Complete analytics workflow from Python data generation → SQL analysis → Excel dashboard insights.
+
+---
+
 ## Database Structure
 
 The relational database consists of the following tables:
@@ -51,7 +102,7 @@ The relational database consists of the following tables:
 - order_items
 - shipments
 
-This structure follows real-world logistics database design.
+This structure reflects real-world logistics database design.
 
 ---
 
@@ -80,7 +131,7 @@ The dataset was generated using Python to simulate real-world logistics operatio
 
 ## SQL Analysis
 
-SQL was used to analyze business performance, generate KPIs, and extract insights.
+SQL was used to analyze business performance and generate KPIs.
 
 Key SQL concepts used:
 
@@ -93,15 +144,6 @@ Key SQL concepts used:
 - Stored Procedures
 
 ![SQL Query Execution](images/SQL_query.png)
-
----
-
-## Dashboard and Visualizations
-
-The Excel dashboard provides visual insights into business performance.
-
-### Order Status Distribution
-![Order Status](images/Order_Status_Distribution.png)
 
 ---
 
@@ -156,8 +198,7 @@ This project reflects real-world logistics and operations analytics workflows us
 Umesh Zampadiya  
 Operations Analyst | Aspiring Data Analyst  
 
-GitHub: https://github.com/lonianverse
-
-Linkdin: https://www.linkedin.com/in/umeshzampadiya/
+GitHub: https://github.com/Ionianverse  
+LinkedIn: https://www.linkedin.com/in/umeshzampadiya/
 
 ---
