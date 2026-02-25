@@ -1,5 +1,10 @@
 # Logistics Operations Analytics Project
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
+![Excel](https://img.shields.io/badge/Excel-Dashboard-green)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## Executive Summary
 
 This project demonstrates a complete end-to-end logistics and operations analytics workflow. It simulates a real-world logistics environment and provides business insights into revenue, customer performance, product trends, and delivery operations.
